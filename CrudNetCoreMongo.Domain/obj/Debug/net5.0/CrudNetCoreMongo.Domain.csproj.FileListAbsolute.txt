@@ -1,0 +1,12 @@
+D:\Projects\CrudNetCoreMongo\CrudNetCoreMongo.Domain\bin\Debug\net5.0\CrudNetCoreMongo.Domain.deps.json
+D:\Projects\CrudNetCoreMongo\CrudNetCoreMongo.Domain\bin\Debug\net5.0\CrudNetCoreMongo.Domain.dll
+D:\Projects\CrudNetCoreMongo\CrudNetCoreMongo.Domain\bin\Debug\net5.0\ref\CrudNetCoreMongo.Domain.dll
+D:\Projects\CrudNetCoreMongo\CrudNetCoreMongo.Domain\bin\Debug\net5.0\CrudNetCoreMongo.Domain.pdb
+D:\Projects\CrudNetCoreMongo\CrudNetCoreMongo.Domain\obj\Debug\net5.0\CrudNetCoreMongo.Domain.csprojAssemblyReference.cache
+D:\Projects\CrudNetCoreMongo\CrudNetCoreMongo.Domain\obj\Debug\net5.0\CrudNetCoreMongo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CrudNetCoreMongo\CrudNetCoreMongo.Domain\obj\Debug\net5.0\CrudNetCoreMongo.Domain.AssemblyInfoInputs.cache
+D:\Projects\CrudNetCoreMongo\CrudNetCoreMongo.Domain\obj\Debug\net5.0\CrudNetCoreMongo.Domain.AssemblyInfo.cs
+D:\Projects\CrudNetCoreMongo\CrudNetCoreMongo.Domain\obj\Debug\net5.0\CrudNetCoreMongo.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\CrudNetCoreMongo\CrudNetCoreMongo.Domain\obj\Debug\net5.0\CrudNetCoreMongo.Domain.dll
+D:\Projects\CrudNetCoreMongo\CrudNetCoreMongo.Domain\obj\Debug\net5.0\ref\CrudNetCoreMongo.Domain.dll
+D:\Projects\CrudNetCoreMongo\CrudNetCoreMongo.Domain\obj\Debug\net5.0\CrudNetCoreMongo.Domain.pdb
